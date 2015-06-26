@@ -12,6 +12,6 @@ public class test {
     
     
     public void display(){
-    System.out.println("Test");
+    System.out.println("Test....");
     }
 }
